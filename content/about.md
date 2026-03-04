@@ -17,7 +17,7 @@ A transformed Commonwealth where our government is an extension of the community
 1. Government Accountability
 2. Citizen Participation
 3. Equity of Opportunity
-4. and Pragmatic Action
+4. Pragmatic Action
 
 If these values resonate with you, we hope you will share them with your circle and invite them to join our movement.
 
