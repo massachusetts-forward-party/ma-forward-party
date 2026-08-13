@@ -18,6 +18,9 @@ Living in Massachusetts is more expensive than neighboring states but it doesnâ€
 ## Education
 Massachusetts has a strong educational system, ranking #1 of all 50 states in all four categories in the National Assessment of Education Progress (NAEP) in 2024. That said, achievement gaps are widening, with poorer outcomes for struggling students in particular. At MA-FWD, we believe that high standards combined with opportunity will improve outcomes for our stateâ€™s children. We plan to work with individual communities to pilot effective ways to lower absenteeism and ensure smart integration of technology in the classroom.
 
+## Healthcare
+The Massachusetts Forward Party supports a healthcare system that is transparent, understandable, and centered on patients rather than bureaucracy. Residents should be able to know the value of care before receiving it, including the cost and quality of outcomes. They should be able to compare options easily, access clear explanations of coverage decisions, and receive assistance navigating Medicare and insurance plans. We support prescription price transparency, pharmacy benefit manager reform, and simplified prior authorization processes. We support the creation of qualified independent healthcare navigation services to help residents obtain the care and medications they need at the best value possible and mechanisms that make it easier to find a qualified medical provider.
+
 <!--
 ## Election Reform
 
