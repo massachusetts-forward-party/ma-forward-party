@@ -3,8 +3,10 @@
 <div class="page-header">
   <div class="container">
     <h1>{{ .Title }}</h1>
+    {{ if and .Params.description (ne .Section "news") }}
     {{ with .Params.description }}
     <p>{{ . }}</p>
+    {{ end }}
     {{ end }}
   </div>
 </div>

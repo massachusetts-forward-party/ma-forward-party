@@ -22,7 +22,6 @@ Create a new file in `content/news/`, e.g. `content/news/2026-03-01-launch.md`:
 ---
 title: "Massachusetts Forward Party Website Launches"
 date: 2026-03-01
-description: "We're excited to announce the launch of our new website."
 ---
 
 Post content goes here.
