@@ -511,8 +511,8 @@ a:hover {
 
  /* Homepage news thumbnails */
 .news-item img {
-  width: 650px !important;
-  height: 350px !important;
+  width: 700px !important;
+  height: 450px !important;
   object-fit: cover;
 }
 
