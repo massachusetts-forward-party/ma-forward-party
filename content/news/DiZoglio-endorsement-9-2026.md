@@ -1,5 +1,5 @@
 ---
-title: "The Forward Party endorses Diana DiZoglio for re-election."
+title: "The Forward Party endorses Diana DiZoglio for re-election"
 date: 2026-09-23
 ---
 
