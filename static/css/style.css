@@ -509,13 +509,6 @@ a:hover {
   font-size: 0.9rem;
 }
 
- /* Homepage news thumbnails */
-.news-item img {
-  width: 600px !important;
-  height: 400px !important;
-  object-fit: cover;
-}
-
 /* --------------------------------------------------------------------------
    Responsive Adjustments
    -------------------------------------------------------------------------- */
