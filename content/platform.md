@@ -21,22 +21,5 @@ Massachusetts has a strong educational system, ranking #1 of all 50 states in al
 ## Healthcare
 The Massachusetts Forward Party supports a healthcare system that is transparent, understandable, and centered on patients rather than bureaucracy. Residents should be able to know the value of care before receiving it, including the cost and quality of outcomes. They should be able to compare options easily, access clear explanations of coverage decisions, and receive assistance navigating Medicare and insurance plans. We support prescription price transparency, pharmacy benefit manager reform, and simplified prior authorization processes. We support the creation of qualified independent healthcare navigation services to help residents obtain the care and medications they need at the best value possible and mechanisms that make it easier to find a qualified medical provider.
 
-<!--
-## Election Reform
-
----
-
-## Governance
-
----
-
-## Economic Opportunity
-
----
-
-## Education
-
----
-
-## Environment & Energy
--->
+## Energy
+Energy prices in Massachusetts are among the highest in the nation, putting pressure on working families and discouraging residents from using electricity instead of gas and oil. Though intended to lower energy costs for residents, subsidy programs like Mass Save have notable inequities. We plan to address our aging grid, invest in energy storage solutions and reform subsidy programs. 
