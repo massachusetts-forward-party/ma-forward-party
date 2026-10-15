@@ -517,6 +517,92 @@ a:hover {
 }
 
 /* --------------------------------------------------------------------------
+   Candidate scorecard
+   -------------------------------------------------------------------------- */
+.scorecard-scroll {
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+}
+
+.scorecard-scroll:focus-visible {
+  outline: 3px solid var(--cyan);
+  outline-offset: 2px;
+}
+
+.scorecard-table {
+  width: 100%;
+  min-width: 850px;
+  margin: 0;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.scorecard-table th,
+.scorecard-table td {
+  padding: 0.7rem 0.8rem;
+  border: 1px solid #dee2e6;
+  vertical-align: top;
+}
+
+.scorecard-table thead {
+  background: var(--purple);
+  color: #fff;
+}
+
+.scorecard-table thead th {
+  background: transparent;
+  color: #fff;
+  font-weight: 700;
+}
+
+.scorecard-table tbody th {
+  min-width: 230px;
+  background: var(--bg-light);
+  font-weight: 600;
+}
+
+.scorecard-table tbody td.score-good {
+  background-color: #e0f0e2;
+}
+
+.scorecard-table tbody td.score-poor {
+  background-color: #f3dfdd;
+}
+
+.scorecard-table tbody td.score-moderate {
+  background-color: #f5e9cb;
+}
+
+.scorecard-table tbody td.score-no-info {
+  background-color: #fff;
+  color: #555;
+}
+
+.scorecard-table .scorecard-score,
+.scorecard-table .scorecard-additional-source,
+.scorecard-table .scorecard-score:hover,
+.scorecard-table .scorecard-additional-source:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.scorecard-table .scorecard-score:focus-visible,
+.scorecard-table .scorecard-additional-source:focus-visible {
+  border-radius: 2px;
+  outline: 2px solid var(--purple);
+  outline-offset: 2px;
+}
+
+.page-content .scorecard-link,
+.page-content .scorecard-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+/* --------------------------------------------------------------------------
    Responsive Adjustments
    -------------------------------------------------------------------------- */
 @media (max-width: 768px) {
