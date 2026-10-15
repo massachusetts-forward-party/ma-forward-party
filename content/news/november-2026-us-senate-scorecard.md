@@ -12,7 +12,7 @@ The <a class="scorecard-link" href="https://massforwardparty.org/about/">Massach
 
 ## U.S. Senate
 
-Hover over or keyboard-focus a rating to see the reason recorded for that score. “No information” means no position was identified in the reviewed materials.
+Hover over or keyboard-focus a rating to see the reason recorded for that score.
 
 <div class="scorecard-scroll" role="region" aria-label="United States Senate candidate scorecard" tabindex="0">
 <table class="scorecard-table">
