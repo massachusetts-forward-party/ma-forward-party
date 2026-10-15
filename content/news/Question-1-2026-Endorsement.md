@@ -1,5 +1,8 @@
-title	Forward Mass Endorses Question 1 to Expand Public Records Law
-date	2026-10-15
+---
+title: "Mass Forward endorses Question 1 to expand public records law"
+date: 2026-10-15
+---
+
 
 Today, the Massachusetts Forward Party formally announced its support for Ballot Question 1, which would expand public records law to cover the Legislature and governor’s office.
 Massachusetts is one of only two states where both the governor’s office and Legislature claim a blanket exemption from public records law. Massachusetts must do better. Our highest offices should be held to the same standards of transparency as state agencies and municipal governments across the Commonwealth. It’s just common sense.
