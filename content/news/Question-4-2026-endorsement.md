@@ -1,6 +1,6 @@
 ---
 title: "Mass Forward endorses Question 4 for Election Day Voter Registration"
-date: 2026-11-2
+date: 2026-11-02
 ---
 
 The Massachusetts Forward Party endorses Question 4 for Election Day Voter Registration, which would allow eligible voters to register and cast a ballot at their polling place on Election Day. Voters could also update their address, but not their political party affiliation.
